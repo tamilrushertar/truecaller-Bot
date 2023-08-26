@@ -1,5 +1,7 @@
 # The TrueCaller Bot
-👾 Hey I can find information from phone number. Easy to use and simple. 
+
+
+
 
 
 <h2>〽️ Deploy Me </h2> 
@@ -11,6 +13,7 @@
 
 
 ## 🏷 Environment Variables
+
   - `API_ID` - Your Telegram API ID.Get it [Here](my.telegram.org)
   - `API_HASH` - Your Telegram API HASH.Get it [Here](my.telegram.org)
   - `BOT_TOKEN` - Your Bot Token. Get it from [Here](https://t.me/BotFather)
