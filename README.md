@@ -1,12 +1,13 @@
 # The TrueCaller Bot
 
-
+<img src="https://telegra.ph/file/7c817420aa77d80b24a6e.jpg">
 
 
 
 <h2>〽️ Deploy Me </h2> 
   
-<details><summary>📌 Deploy to Heroku </summary>
+<details><summary>📌 Deploy to Heroku 
+
   
 <a href="https://heroku.com/deploy?template=https://github.com/DAXXSIR/truecaller-Bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"></p></a>
 </details>
