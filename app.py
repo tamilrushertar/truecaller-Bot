@@ -64,7 +64,7 @@ sendtxt = """
 
 <b>»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»</b>
 
-<b><spoiler>🔥 Powered By @Taprobane_LK ©️| @TheTruecaller_Bot 🤖</spoiler></b>
+<b><spoiler>🔥 Powered By @sonictar ©️| @botsworldtar 🤖</spoiler></b>
 
 """
 
@@ -93,8 +93,8 @@ async def stsrt(_, m : Message):
             keyboard = InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("🗯 Update Channel", url="https://t.me/Taprobane_Lk"),
-                        InlineKeyboardButton("💬 Support", url="https://t.me/TaprobaneChat")
+                        InlineKeyboardButton("🗯 Update Channel", url="https://t.me/botsworldtar"),
+                        InlineKeyboardButton("💬 Support", url="https://t.me/globalhelper")
                     ]
                 ]
             )
