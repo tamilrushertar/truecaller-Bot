@@ -6,7 +6,7 @@ class Config:
     BOT_TOKEN = getenv("BOT_TOKEN", "6729293205:AAH1GidKTd_QuaseX7hQw9rSQlU5HnF_j5A")
     CHID = int(getenv("CHID", "-1002029565703"))
     SUDO = list(map(int, getenv("SUDO").split()))
-    MONGO_URI = getenv("MONGO_URI", "")
+    MONGO_URI = getenv("MONGO_URI", "mongodb+srv://tamil:tamil@2003@cluster0.svg2af2.mongodb.net/")
     LOGCHID = int(getenv("LOGCHID", "-1002029565703"))
     API = getenv("API", "abcdefu67-8dgdg")
 cfg = Config()
