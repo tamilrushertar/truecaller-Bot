@@ -120,7 +120,7 @@ Features:- ⚕⚕
 
 🎡 Other Countries will add soon.
 
-||🔥 Powered By @cyberdaxxx ©️ | @cyberdaxx 🤖||**""", reply_markup=keyboard)
+||🔥 Powered By @sonictar ©️ | @botsworldtar 🤖||**""", reply_markup=keyboard)
         elif m.chat.type == enums.ChatType.GROUP or enums.ChatType.SUPERGROUP:
             keyboar = InlineKeyboardMarkup(
                 [
@@ -153,7 +153,7 @@ async def main(_, m : Message):
 
 @bot.on_message(filters.command("help"))
 async def help(_, m : Message):
-    await m.reply_text("**⚠️Currently Available only for Sri Lankan Numbers.⚠️\nJust send target phone number to lookup informations.\n\n✅Available formats:-\n - +9471⚹⚹⚹⚹⚹⚹⚹\n - 071⚹⚹⚹⚹⚹⚹⚹\n - 71⚹⚹⚹⚹⚹⚹⚹\n\n🍂 Ex:- `+94715607964`\n\n💁‍♂️ If you Need help please send message to __@TaprobaneChat.__\n\n||🔥 Powered By @Taprobane_LK ©️ | @TheTruecaller_Bot 🤖||**")
+    await m.reply_text("**⚠️Currently Available only for Sri Lankan Numbers.⚠️\nJust send target phone number to lookup informations.\n\n✅Available formats:-\n - +9471⚹⚹⚹⚹⚹⚹⚹\n - 071⚹⚹⚹⚹⚹⚹⚹\n - 71⚹⚹⚹⚹⚹⚹⚹\n\n🍂 Ex:- `+94715607964`\n\n💁‍♂️ If you Need help please send message to __@globalhelper.__\n\n||🔥 Powered By @botsworldtar ©️ | @sonictar 🤖||**")
 
 @bot.on_callback_query(filters.regex("chk"))
 async def chk(_, cb : CallbackQuery):
@@ -163,8 +163,8 @@ async def chk(_, cb : CallbackQuery):
             keyboard = InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("🗯 Update Channel", url="https://t.me/cyberdaxx"),
-                        InlineKeyboardButton("💬 Support", url="https://t.me/cyberdaxxx")
+                        InlineKeyboardButton("🗯 Update Channel", url="https://t.me/botsworldtar"),
+                        InlineKeyboardButton("💬 Support", url="https://t.me/globalhelper")
                     ]
                 ]
             )
@@ -186,7 +186,7 @@ you can check any Sri Lankan 🇱🇰 mobile number informations from me.
 
 🎡 Other Countries will add soon.
 
-||🔥 Powered By @cyberdaxx ©️ | @cyberdaxxx 🤖||**""", reply_markup=keyboard) 
+||🔥 Powered By @sonictar ©️ | @botsworldtar 🤖||**""", reply_markup=keyboard) 
               
         if c == "444":
                 print('lol')
